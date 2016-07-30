@@ -10,7 +10,7 @@ export default class auspostWidget extends React.Component {
 
   static id = 'auspost';
   static widgetName = 'Auspost Tracking Widget';
-  static sizes = [[1, 1]];
+  static sizes = [[2, 1], [2, 2], [2,3]];
 
   render() {
     return (
