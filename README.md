@@ -1,11 +1,9 @@
-auspost
+AusPost Widget
 ---------------------------
 
-Welcome to your new Widget.
+This is a standard generated Dashr Widget
 
-Running `npm publish` will get you onto the NPM repository.  It will also automatically compile your code
-
-Have fun writing ES6 modules!
+![](example.png)
 
 License
 -------
