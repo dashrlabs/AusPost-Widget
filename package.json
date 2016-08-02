@@ -1,7 +1,7 @@
 {
   "name": "dashr-widget-auspost",
   "productName": "auspost",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Auspost widget for Dashr",
   "main": "build/components/CoreWidget.js",
   "scripts": {
